@@ -296,7 +296,7 @@ def main():
     main_folder = "google_queries"
     subfolder_number = 13
     api_key = ""
-    max_total_results = 400
+    max_total_results = 50 # MAX TOTAL RESULTS PER QUERY
     results_per_page = 20
     
     executor = ScholarSearchExecutor(
