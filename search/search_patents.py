@@ -420,7 +420,7 @@ def main():
     # Define your variables here
     test_number = 7  
     serp_api_key = ""
-    max_total_results = 750
+    max_total_results = 50 # MAX TOTAL RESULTS PER QUERY
     results_per_page = 100  
     base_folder = 'patent_queries'  
     
