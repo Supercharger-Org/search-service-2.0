@@ -1,0 +1,6 @@
+anthropic
+requests
+vertexai
+beautifulsoup4
+asyncio
+tenacity
